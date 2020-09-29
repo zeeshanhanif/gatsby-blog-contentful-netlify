@@ -1,3 +1,14 @@
+# Gatsby Blog Site
+
+Implemented Blog Site with dynamic page generation of each post on build time. Integrated with netlify and auto build on commit plus integrated with contentful so as changes will be published in contentful it will trigger build on netlify
+
+[Trigger netlify build on changes in contentful](https://www.contentful.com/developers/docs/tutorials/general/automate-site-builds-with-webhooks) 
+
+Deployed URL: https://quizzical-shannon-7cc5d5.netlify.app/
+
+
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
