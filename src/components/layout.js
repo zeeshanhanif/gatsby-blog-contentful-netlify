@@ -5,7 +5,7 @@ import Header from './header'
 const Layout = ({children}) => {
     return (
         <div>
-            <Header siteTitle="Gatsby Blogs By Zeeshan" />
+            <Header siteTitle="Gatsby Blogs By Zeeshan Updated" />
             <div
                 style={{
                 margin: `0 auto`,
